@@ -1,0 +1,2 @@
+include ':app', ':SyncSlideLib'
+rootProject.name='My Application'
