@@ -7,7 +7,7 @@
 
 ​	第一行标题为HorizontalScrollView，内含TextView
 
-​	列表使用RecyclerView，子item中横向滑动也用到HorizontalScrollView
+​	列表使用RecyclerView，子item中横向滑动也用到HorizontalScrollView(注：为避免item中的HorizontalScrollView与RecyclerView滑动冲突，此处我们拦截掉子item中的HorizontalScrollView的事件，我们自己来处理RecyclerView上下滑动或左右滑动)
 
 ​	HorizontalScrollView与RecyclerView进行双向绑定联动！
 
