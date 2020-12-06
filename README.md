@@ -1,22 +1,22 @@
 # StockSyncScrollView
 股票列表，横竖联动
 
-![效果](C:\Users\tianc\Desktop\效果.gif)
+![效果](\素材\效果.gif)
 
 讲解：
 
-setp1:
+step1:
 
-![1607237204856](C:\Users\tianc\AppData\Roaming\Typora\typora-user-images\1607237204856.png)
+![step1](\素材\step1.png)
 
-setp2:
+step2:
 
-![1607237354569](C:\Users\tianc\AppData\Roaming\Typora\typora-user-images\1607237354569.png)
+![step2](\素材\step2.png)
 
-setp3:
+step3:
 
-![1607237420048](C:\Users\tianc\AppData\Roaming\Typora\typora-user-images\1607237420048.png)
+![step3](\素材\step3.png)
 
-setp4：核心
+step4：核心
 
-![1607237548968](C:\Users\tianc\AppData\Roaming\Typora\typora-user-images\1607237548968.png)
+![step4](\素材\step4.png)
